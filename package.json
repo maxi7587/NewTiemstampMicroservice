@@ -1,0 +1,29 @@
+{
+  "//1": "NewTimestamtMicroservice requires MomentJS",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "Updating this file will download and update packages",
+
+  "name": "NewTimestampMicroservice",
+  "version": "0.0.1",
+  "description": "NewTimestampMicroservice converts your date to unix o natural timestamps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "moment": "2.18.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "Maximiliano Cruz",
+  "keywords": [
+    "node",
+    "express",
+    "momentjs"
+  ]
+}
