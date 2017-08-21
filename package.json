@@ -1,8 +1,4 @@
 {
-  "//1": "NewTimestamtMicroservice requires MomentJS",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "Updating this file will download and update packages",
-
   "name": "NewTimestampMicroservice",
   "version": "0.0.1",
   "description": "NewTimestampMicroservice converts your date to unix o natural timestamps",
@@ -18,7 +14,8 @@
     "node": "8.x"
   },
   "repository": {
-    "url": ""
+    "type" : "git",
+    "url" : "https://github.com/maxi7587/URL-Shortener-Microservice"
   },
   "license": "Maximiliano Cruz",
   "keywords": [
